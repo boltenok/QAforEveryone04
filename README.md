@@ -1,2 +1,2 @@
 # QAforEveryone04
-Aothomation course project
+Authomation course project
